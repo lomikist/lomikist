@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lomikist
+- 👋 Hi, I’m @djweasle
 - 👀 I’m interested in programming, climbing , in calistennic and more 
 - 🌱 I’m currently learning node.js, js 
 - 💞️ I’m looking to collaborate on ...
